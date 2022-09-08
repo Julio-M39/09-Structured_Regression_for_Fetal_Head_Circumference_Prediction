@@ -32,7 +32,7 @@ Podemos observar resultados próximos aos resultados obtidos do trabalho origina
 
 **Referências:**
 
-<a href="http://proceedings.mlr.press/v121/zhang20a/zhang20a.pdf/">Direct estimation of fetal head circumference from
+<a href="https://proceedings.mlr.press/v121/zhang20a.html">Direct estimation of fetal head circumference from
 ultrasound images based on regression CNN</a>
 
 
