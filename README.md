@@ -8,6 +8,11 @@ OBS: Caso o Github não renderize o arquivo .ipynb use os links abaixo:
 
 ### Definição do Projeto
 
+
+<div>
+<img src="https://user-images.githubusercontent.com/54995990/189235506-a3d6de95-a4f9-47db-b29d-ae877912d3ad.png" width="800px" />
+</div>
+
 A medida do perímetro cefálico (PC) fetal é realizada durante toda a gestação como uma chave biométrica para monitorar o crescimento do feto. Esta medição é realizada em imagens de ultrassom, através do ajuste manual de uma elipse. A operação é dependente do operador e pode ser propensos ao erro intra e intervariabilidade. Essa abordagem é experimentada no conjunto de dados público HC18, que contém imagens de todos os trimestres da gravidez. 
 
 Fonte de Dados:
